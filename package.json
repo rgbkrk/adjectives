@@ -7,5 +7,13 @@
     "test": "node -e 'require(\".\")'"
   },
   "author": "Kyle Kelley <rgbkrk@gmail.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/adjectives.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rgbkrk/adjectives/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/adjectives#readme"
 }
