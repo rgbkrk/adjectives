@@ -1,6 +1,6 @@
 {
   "name": "adjectives",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Array of Adjectives",
   "main": "index.js",
   "scripts": {
